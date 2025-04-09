@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "D:/javascript"
+		},
+		{
+			"path": "D:/javascript/DOM+Challenge+Starting+Files/DOM Challenge Starting Files"
+		},
+		{
+			"path": "D:/javascript/DOM+Challenge+Starting+Files"
+		},
+		{
+			"path": "../../DOM+Challenge+Starting+Files"
+		},
+		{
+			"path": "../__MACOSX"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DOM Challenge Starting Files"
+	}
+}
